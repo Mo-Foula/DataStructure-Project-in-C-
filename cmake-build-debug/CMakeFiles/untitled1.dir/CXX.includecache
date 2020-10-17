@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/moham/CLionProjects/untitled1/main.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+stack
+-
+bits/stdc++.h
+-
+queue
+-
+
